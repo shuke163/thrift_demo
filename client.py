@@ -4,12 +4,9 @@
 @author: shuke
 @file: client.py 
 @time: 2019/04/03 19:01
-@contact: zhaofengfeng@wecash.net
+@contact: zhaofengfeng@shuke.net
 @software:  learn
 """
-
-# ! /usr/bin/env python
-# -*- coding: utf-8 -*-
 
 import os
 import sys
